@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cc55960-5fd8-41b3-bdd5-e4d85207a147" name="Default" comment="" />
+    <list default="true" id="1cc55960-5fd8-41b3-bdd5-e4d85207a147" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshot.png" />
+    </list>
     <ignored path="kates-first-theme.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
